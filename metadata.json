@@ -1,0 +1,5 @@
+{
+  "name": "PLATEIQ",
+  "description": "A personalized Indian diet plan generator based on user preferences and health data.",
+  "requestFramePermissions": []
+}
